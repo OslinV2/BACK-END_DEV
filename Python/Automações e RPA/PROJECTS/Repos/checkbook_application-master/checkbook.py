@@ -8,7 +8,7 @@ prompt = '> Your option: '
 def menu():
     print("How would you like to proceed?")
     print("""
-    1) View current balance
+    1) View current balance333
     2) Make a withdrawl 
     3) Make a deposit  
     4) Exit\n""")

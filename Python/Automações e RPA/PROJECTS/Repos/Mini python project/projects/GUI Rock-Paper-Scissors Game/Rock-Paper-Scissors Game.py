@@ -43,19 +43,21 @@ def spin():
 
     elif user_select_value == 1:
         if choose_number == 1:
-            wl_label.config(text="Tie! - "+" Computer: Nice game")
+            wl_label.config(text="Tie! - "+" Computer: Nice game, let`s go!!")
         elif choose_number == 0:
-            wl_label.config(text="YOU Won - "+" Computer: Shit how you are better")
+            wl_label.config(text="YOU Won - "+" Computer: Shit! how you are better")
         elif choose_number == 2 :
-            wl_label.config(text="YOU Loose - "+" Computer: booo")
+            wl_label.config(text="YOU Loose - "+" Computer: booo, steel fucking you!")
 
     elif user_select_value == 2:
         if choose_number == 2:
             wl_label.config(text="Tie!")
         elif choose_number == 0:
-            wl_label.config(text="YOU Loose - "+" Computer: I am playing this game since i was born")
+            wl_label.config(text="""YOU (Loose) - "+" Computer: Y am playing this game since i was born,
+                            You MotherFCK, go eat more rice & bean and return here to get your @Ss kicked again!!!,
+                            HAHAHHHA!, I will steel fucking you, FCK youuu!!!""")
         elif choose_number == 1 :
-            wl_label.config(text="YOU Won")
+            wl_label.config(text="DAMN!! YOU Won")
 
 
 
