@@ -15,7 +15,7 @@ def count_me():
 	freq_list = freq.keys()
 
 	for word in freq_list:
-		print word, freq[word]
+		print (f'word, freq[word]')
 
 
 if __name__ == '__main__':
