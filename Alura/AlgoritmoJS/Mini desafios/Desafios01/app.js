@@ -2,13 +2,13 @@
 // 01
 alert('Boas vindas ao nosso site!')
 // 02
-let nome = 'lua'
+let nome = 'lua';
 // 03
-let idade = 25
+let idade = 25;
 // 04
-let numeroDeVendas  = 50
+let numeroDeVendas  = 50;
 // 05
-let saldoDisponivel = 1000
+let saldoDisponivel = 1000;
 // 06
 console.log('Erro! Preencha todos os campos')
 // 07
