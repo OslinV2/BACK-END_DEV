@@ -1,7 +1,8 @@
 Tipos de Seleção de elementos na pagína web: 
 
 01 -- Seleção - basìco
-forma00 = element = driver.find_element_by_id("element_id")
+forma00 
+element = driver.find_element_by_id("element_id")
 ou 
 element = driver.find_element_by_CLASS_NAME("class_element")
 entre muitos outros
