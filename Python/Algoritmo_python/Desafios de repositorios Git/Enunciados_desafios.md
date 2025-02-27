@@ -1,8 +1,4 @@
 ### Estruturas sequenciais
-#### [Exercicio 001](exercicios/001.py)
-
-Faça um Programa que mostre a mensagem "Alo mundo" na tela.
-
 #### [Exercicio 002](exercicios/002.py)
 
 Faça um Programa que peça um número e então mostre a mensagem O número
