@@ -1,0 +1,51 @@
+date,amount,category,description
+18-08-2008,3000.0,Income,Salary
+12-05-2010,250.0,Expense,Groceries
+25-09-2012,1200.0,Income,Freelance
+05-11-2013,400.0,Expense,Rent
+15-06-2014,600.0,Income,Bonus
+20-02-2015,90.0,Expense,Electricity Bill
+09-09-2016,150.0,Expense,Internet Bill
+30-07-2017,2000.0,Income,Salary
+14-10-2018,50.0,Expense,Transportation
+21-03-2019,180.0,Expense,Dining Out
+11-12-2019,2200.0,Income,Salary
+05-04-2020,1000.0,Income,Investment Return
+09-07-2020,80.0,Expense,Subscription
+17-08-2021,750.0,Income,Side Business
+03-01-2022,500.0,Expense,Car Maintenance
+14-06-2022,60.0,Expense,Streaming Service
+27-08-2022,1800.0,Income,Salary
+10-11-2022,200.0,Expense,Entertainment
+08-02-2023,250.0,Expense,Healthcare
+21-05-2023,300.0,Expense,Shopping
+29-07-2023,900.0,Income,Freelance
+15-10-2023,1100.0,Income,Bonus
+02-12-2023,85.0,Expense,Internet Bill
+07-01-2024,60.0,Expense,Streaming Service
+19-02-2024,1700.0,Income,Salary
+03-03-2024,450.0,Expense,Car Fuel
+11-04-2024,95.0,Expense,Subscription
+25-05-2024,135.0,Expense,Groceries
+08-06-2024,700.0,Income,Side Business
+22-07-2024,500.0,Expense,Medical Checkup
+05-08-2024,2200.0,Income,Salary
+17-09-2024,400.0,Expense,House Rent
+28-10-2024,90.0,Expense,Gas Bill
+12-11-2024,180.0,Expense,Dining Out
+23-12-2024,1000.0,Income,Investment Return
+06-01-2025,120.0,Expense,Electricity Bill
+18-02-2025,1600.0,Income,Salary
+03-03-2025,2000.0,Income,Salary
+09-04-2025,180.0,Expense,Groceries
+22-05-2025,95.0,Expense,Entertainment
+15-06-2025,80.0,Expense,Streaming Service
+28-07-2025,1000.0,Income,Freelance
+11-08-2025,85.0,Expense,Subscription
+15-08-2025,800.0,Income,Salary
+19-09-2025,450.0,Expense,Car Fuel
+22-10-2025,250.0,Expense,Shopping
+03-11-2025,1800.0,Income,Bonus
+14-12-2025,110.0,Expense,Gas Bill
+25-12-2025,95.0,Expense,Entertainment
+31-12-2025,500.0,Expense,New Year Party
